@@ -8,7 +8,7 @@
 
 <h2>Edit Movie Record</h2>
 
-<form action="Result.jsp" method="post">
+<form action="result.jsp" method="post">
 
     Movie ID (not editable): <input type="text" value="<%= record.getMovieID() %>" readonly><br>
     <input type="hidden" name="movieID" value="<%= record.getMovieID() %>">

@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Movie Database – Update Records</h1>
+    <h1>Movie Database Update Records</h1>
     <p>Select a record to update, edit its details, and view the updated record.</p>
 
     <%
